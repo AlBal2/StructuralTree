@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuralTree", "StructuralTree\StructuralTree.csproj", "{D5E860DB-1710-40DE-B028-5549385315E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural tree tester", "Structural tree tester\Structural tree tester.csproj", "{28948298-D3F4-4A7A-92D3-86CEABB248E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E860DB-1710-40DE-B028-5549385315E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E860DB-1710-40DE-B028-5549385315E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E860DB-1710-40DE-B028-5549385315E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E860DB-1710-40DE-B028-5549385315E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28948298-D3F4-4A7A-92D3-86CEABB248E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28948298-D3F4-4A7A-92D3-86CEABB248E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28948298-D3F4-4A7A-92D3-86CEABB248E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28948298-D3F4-4A7A-92D3-86CEABB248E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793A8CF4-21C5-4416-8468-015CABFDB6EA}
+	EndGlobalSection
+EndGlobal
